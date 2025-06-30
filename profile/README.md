@@ -1,8 +1,9 @@
 <p align="center">
- <a href="https://www.reluconsultancy.com/" target="_blank"><img src="https://cdn.prod.website-files.com/65d7787caae19304122b9284/65dab1f5c90e9c01aaa96f04_Logo.png" alt="Relu Consultancy Banner" width="400"></a>
+ <img src="image (1).jpg" alt="My Local Image" style="width: 100%;">
     <br />
     <br />
  <div align="center">
+  <p>Checkout our testimonials...</p>
     <a href="https://www.trustpilot.com/review/reluconsultancy.com" target="_blank">
         <img src="https://cdn.prod.website-files.com/65d7787caae19304122b9284/66c86d0be116678723864726_trustpilot.webp" alt="Trustpilot logo" height="50">
     </a>
@@ -18,13 +19,14 @@
     <b>We connect your business with innovation and growth through robust data solutions</b>
 </p>
 
-## About Relu Consultancy �
+## About Relu Consultancy
 
-We are a team of robust data engineers and software developers dedicated to providing web scraping and automation services. Our expertise lies in crafting data-driven solutions that connect your business with growth.
+We are a team of robust data engineers and software developers dedicated to providing web scraping, automation services, Customized solution, CRM solutions, No Code architecture ,Api development etc. Our expertise lies in crafting data-driven solutions that connect your business with growth.
 
 - **150+** Completed Projects
 - **100K+** Lines of Code
 - **12K+** Hours of cloud scraping
+
 
 ### Our Core Principles
 - **Part of Solution, not Pollution** - Opening the World of Work with Data
@@ -56,7 +58,54 @@ We are a team of robust data engineers and software developers dedicated to prov
 
 We have served **500+ clients globally**, helping them establish their businesses. We inherit the property of Relu function by uplifting your business foundation and skyrocketing your growth.
 
+# Our Impactful Projects and Contributions
+<img src="image_dashboard.png" alt="My Local Image" style="width: 100%;">
 
+
+**E-Commerce Management**  
+End-to-end management including product listing, inventory tracking, order processing, and support across platforms like Shopify, WooCommerce, and Amazon.
+
+---
+**Automated Workflow using Zapier, Make.com & n8n**  
+Streamlined automation across apps with task automation, data syncing, webhook integrations, and error handling.
+
+---
+**Real Estate Data Enrichment & Review Management**  
+Enriches property data, centralizes client review tracking, uses sentiment analysis, and provides a unified response dashboard.
+
+---
+**Data Migration for EMR**  
+Migrates and consolidates medical records into modern EMR systems to enhance clinic workflows and reduce administrative load.
+
+---
+**Car Wash Maintenance Reporting**
+Revenue and membership insights for Gateway & Beverly Hills locations with Excel automation, DRB security, and validated dashboards.
+
+---
+**Consumer Lists Automation**  
+Extracts social media followers and automates direct messaging using proxy rotation, modular scripts, and API rate limit handling.
+
+---
+**AI Legal Scraper**  
+AI-powered scraper for legal content using automated tools, CAPTCHA solving, structured storage, and live deployment via proxy-based access.
+
+---
+**AI-Driven Automation for Client Interaction Workflow**  
+Scalable solution connecting forms to CRM/email systems, ready for AI and third-party app integrations.
+
+---
+**Sports Betting Automation**  
+Extracts live/historic data from Turbo111 with real-time odds, API delivery, and trend-ready analytics integration.
+
+---
+**AI Automation for Form Interaction Workflow**  
+Uses n8n to capture Typeform data, update Google Sheets, and trigger emails with robust error handling and scalability.
+
+---
+**Trader Bot Automation**  
+Browser-based bot using Playwright to extract and transmit trading data securely to client APIs with testing and error resilience.
+
+----
 ## Our Partners 🤝
 
 <div align="center" style="overflow-x: auto; white-space: nowrap; padding: 20px 0;">
@@ -82,8 +131,8 @@ We have served **500+ clients globally**, helping them establish their businesse
 ## Connect With Us 📞
 
 - 🌐 [Website](https://www.reluconsultancy.com/)
-- 📧 Email: connect@reluconsultancy.com
-- 📍 Address: E-8/97 Trilanga Colony, Bhopal, India 462039
+- 📧 Email: info@reluconsultancy.com
+- 📍 Address: A21, E8 Extension, Tilak Nagar, Bawadiya Kalan, Gulmohar Colony, Bhopal, Madhya Pradesh 462039
 
 ## Let's Collaborate 💡
 
