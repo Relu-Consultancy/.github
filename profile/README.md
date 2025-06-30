@@ -1,5 +1,5 @@
 <p align="center">
- <img src="image (1).jpg" alt="My Local Image" style="width: 100%;">
+ <img src="banner.webp" alt="My Local Image" style="width: 100%;">
     <br />
     <br />
  <div align="center">
@@ -59,7 +59,7 @@ We are a team of robust data engineers and software developers dedicated to prov
 We have served **500+ clients globally**, helping them establish their businesses. We inherit the property of Relu function by uplifting your business foundation and skyrocketing your growth.
 
 # Our Impactful Projects and Contributions
-<img src="image_dashboard.png" alt="My Local Image" style="width: 100%;">
+<img src="dashboard.webp" alt="My Local Image" style="width: 100%;">
 
 
 **E-Commerce Management**  
