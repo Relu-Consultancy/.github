@@ -5,15 +5,15 @@
  <div align="center">
   <p>Checkout our testimonials...</p>
     <a href="https://www.trustpilot.com/review/reluconsultancy.com" target="_blank">
-        <img src="https://cdn.prod.website-files.com/65d7787caae19304122b9284/66c86d0be116678723864726_trustpilot.webp" alt="Trustpilot logo" height="50">
+        <img src="https://cdn.prod.website-files.com/65d7787caae19304122b9284/66c86d0be116678723864726_trustpilot.webp" alt="Trustpilot logo"  style="width: 20%;">
     </a>
     &nbsp;&nbsp;&nbsp;
     <a href="https://www.g2.com/products/relu-consultancy/reviews" target="_blank">
-        <img src="https://cdn.prod.website-files.com/65d7787caae19304122b9284/66c86d0c859a66cd2f10d63b_google.webp" alt="G2 logo" height="50">
+        <img src="https://cdn.prod.website-files.com/65d7787caae19304122b9284/66c86d0c859a66cd2f10d63b_google.webp" alt="G2 logo" style="width: 20%;">
     </a>
     &nbsp;&nbsp;&nbsp;
     <a href="https://g.co/kgs/P7VxVjB" target="_blank">
-        <img src="https://cdn.prod.website-files.com/65d7787caae19304122b9284/66c86d0be9d061a47892ae0a_google-logo.webp" alt="Google logo" height="50">
+        <img src="https://cdn.prod.website-files.com/65d7787caae19304122b9284/66c86d0be9d061a47892ae0a_google-logo.webp" alt="Google logo" style="width: 20%;">
     </a>
 </div>
     <b>We connect your business with innovation and growth through robust data solutions</b>
@@ -23,12 +23,13 @@
 
 We are a team of robust data engineers and software developers dedicated to providing web scraping, automation services, Customized solution, CRM solutions, No Code architecture ,Api development etc. Our expertise lies in crafting data-driven solutions that connect your business with growth.
 
-- **150+** Completed Projects
-- **100K+** Lines of Code
+- **1000+** Completed Projects
+- **700K+** Lines of Code
 - **12K+** Hours of cloud scraping
+- **10 million+** data sets scraped successfully
 
 
-### Our Core Principles
+### Our Core Principles 🧠
 - **Part of Solution, not Pollution** - Opening the World of Work with Data
 - **Improvise your decision-making** with our data solutions
 
@@ -46,10 +47,12 @@ We are a team of robust data engineers and software developers dedicated to prov
 - Datasets
 - Scraping API
 - Sales Lead Generation
+- Scraping Api Development 
+- Sales and Lead Generation Automation
 
-### Industries We Serve
+### Industries We Serve 💼
 - Real Estate
-- Crypto
+- Artificial intelligence and Machine learning 
 - Social Media
 - E-commerce
 - Recruitment
